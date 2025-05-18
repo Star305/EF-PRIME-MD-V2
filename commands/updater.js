@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 module.exports = {
-    name: 'updater',
+    name: 'update',
     description: 'Check for updates from the GitHub repo and update the bot system',
     permission: 2,
     cooldowns: 10,
