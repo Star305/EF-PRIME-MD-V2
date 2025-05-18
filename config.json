@@ -1,0 +1,12 @@
+
+
+{
+    "owner": ["265xxxxxxxxx@s.whatsapp.net", "add the one u trust as admin here"],
+    "prefix": "!",
+    "botName": "Your Bot name",
+    "alwaysOnline": true,
+    "autoRecording": false,
+    "sessionId": "your session id here"
+}
+
+
