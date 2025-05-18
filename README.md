@@ -1,2 +1,4 @@
 # EF-PRIME-MD-V2
-This is another EF-PRIME-MD V2 with Optimus prime theme developed and maintained by Frank kaumba dev 
+made with love by Frank kaumba dev 
+
+> dont even think of modifying 🙆only change and add command if u can make but modifying the system ☹️will get errors 
