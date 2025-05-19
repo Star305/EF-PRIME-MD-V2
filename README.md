@@ -13,11 +13,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+Frank+Kaumba+Dev" alt="Typing SVG - By Frank Kaumba Dev" />
 </div>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lyZm12Mm9ydWtpOGk2cTgwcG9sNjdteGU5aW5xbjAxZHM0ZnFvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Optimus Prime Transforming - Into Action!" width="70%"/>
-</div>
-
-<h2 align="center">🔥 THE ULTIMATE WHATSAPP BOT 🔥</h2>
+<h2 align="center">THE ULTIMATE WHATSAPP BOT</h2>
 
 <div align="center">
   
