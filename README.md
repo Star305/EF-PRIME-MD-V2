@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://files.catbox.moe/hc9hh3.jpg" alt="Optimus Prime - Leader of the Autobots" width="100%" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
+    <img src="https://files.catbox.moe/oe6cwe.png" alt="Optimus Prime - Leader of the Autobots" width="100%" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
 </div>
 
 <div align="center">
