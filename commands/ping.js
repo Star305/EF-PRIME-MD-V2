@@ -14,7 +14,6 @@ module.exports = {
             
             const latency = end - start;
             
-            
             const optimusQuotes = [
                 "Freedom is the right of all sentient beings.",
                 "Autobots, roll out!",
@@ -28,7 +27,6 @@ module.exports = {
                 "Victory will not come through force, but through our unity."
             ];
             
-        
             const randomQuote = optimusQuotes[Math.floor(Math.random() * optimusQuotes.length)];
             
             const pingMessage = `╭────❒ *🤖 EF-PRIME-MD v2* ❒
@@ -39,17 +37,7 @@ module.exports = {
             try {
                 
                 await sock.sendMessage(m.chat, {
-                    text: pingMessage,
-                    contextInfo: {
-                        mentionedJid: [m.sender],
-                        forwardingScore: 999,
-                        isForwarded: true,
-                        forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363419090892208@newsletter',
-                            newsletterName: "EF-PRIME",
-                            serverMessageId: 143
-                        }
-                    }
+                    text: pingMessage
                 }, {
                     quoted: m
                 });
@@ -61,5 +49,5 @@ module.exports = {
             console.error('Error in ping command:', err);
             await m.reply('⚠️ Ping check failed');
         }
-    }
+    } 
 };
