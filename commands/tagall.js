@@ -20,7 +20,7 @@ category: 'admin',
             const groupMetadata = await sock.groupMetadata(m.key.remoteJid);
             const participants = groupMetadata.participants;
             
-            const message = args.join(' ') || 'Hello everyone it's efprime md by frank dev!';
+            const message = args.join(' ') || 'Hello everyone its efprime md by frank dev!';
             
             let mentions = participants.map(p => p.id);
             let mentionText = `╭────❒ 📢 Announcement ❒\n`;
