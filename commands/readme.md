@@ -1,1 +1,1 @@
-# when still something from this folder remember to credit
+# when stealing something from this folder remember to credit
