@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'info',
+    name: 'owner',
     desc: 'Display bot information',
     aliases: ['botinfo', 'about'],
     category: 'Info',
@@ -19,10 +19,10 @@ module.exports = {
             
             const botNumber = sock.user.id.split(':')[0] + '@s.whatsapp.net';
             const configVersion = config && config.version ? config.version : '1.0.0';
-            const ownerName = config && config.ownerName ? config.ownerName : 'Frank Dev';
+            const ownerName = config && config.ownerName ? config.ownerName : 'Emmanuel Dev';
             const prefix = config && config.prefix ? config.prefix : '/';
             const features = config && config.features ? config.features : 'Groups Management, Fun, Tools, and more!';
-            const creator = config && config.creator ? config.creator : 'Frank Dev';
+            const creator = config && config.creator ? config.creator : 'Emmanuel Dev';
             
             let infoText = `╭────❒ 🤖 Bot Info ❒
 ├⬡ *Bot Name:* ${sock.user ? (sock.user.name || 'EFPrime MD') : 'EFPrime MD'}
