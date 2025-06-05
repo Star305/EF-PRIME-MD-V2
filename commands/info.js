@@ -33,7 +33,7 @@ module.exports = {
 ├⬡ *WhatsApp:* wa.me/${botNumber.split('@')[0]}
 ├⬡ *Features:* ${features}
 ├⬡ *Created By:* ${creator}
-├⬡ *Special Thanks:* God almighty ❤️
+├⬡ *Channel link:*  https://whatsapp.com/channel/0029VbBAAKmKgsO2ZeabSd03
 ╰────────────❒`;
 
             await m.reply(infoText);
